@@ -8,7 +8,7 @@
  */
 
 #include <SPI.h>
-#include <Ethernet2.h>
+#include <Ethernet.h>
 #include <utility/w5500.h>
 
 #define REQ_DATASIZE 64
